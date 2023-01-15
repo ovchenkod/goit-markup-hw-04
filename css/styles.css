@@ -450,12 +450,12 @@ line-height: 1.1;
 letter-spacing: 0.04em;
 text-align: center;
 cursor: pointer;
-border: none;
 }
         
 .menu-btn:hover,
 .menu-btn:focus {
 background-color: #4D5AE5;
+border: 1px solid #4D5AE5;
 color: #F4F4FD;
 box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1),
  0px 2px 1px rgba(0, 0, 0, 0.08), 
